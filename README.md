@@ -11,7 +11,7 @@ prototype. This project is being currently ported to atomicDEX QT.
 ```
 curl https://install.meteor.com/ | sh
 git clone https://github.com/ca333/beerDEX
-cd atomicDEX
+cd beerDEX
 meteor npm install --save sweetalert
 meteor npm install --save pm2 fs-extra fix-path
 meteor add ca333:qrcode
